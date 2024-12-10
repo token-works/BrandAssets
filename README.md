@@ -6,5 +6,5 @@ This repository contains various assets used in our project. Below you'll find p
 
 ## Download
 
-- [⬇️ Download Latest Brand Assets](https://github.com/token-works/BrandAssets/archive/refs/tags/assets.zip)
+- [⬇️ Download Latest Brand Assets](https://github.com/token-works/BrandAssets/archive/refs/tags/Assets.zip)
 
